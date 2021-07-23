@@ -2,7 +2,7 @@
 
 ![Vitor-Tx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Tx&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Tx&hide=html,php,javascript,jupyter+notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Tx&hide=html,php,jupyter+notebook)
 
 
 
