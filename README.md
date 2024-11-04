@@ -1,6 +1,6 @@
 # Hello, I'm Vitor! 👋
 
-If you speak Portuguese, please click [here!](https://github.com/Vitor-Tx/Vitor-Tx/blob/master/README.pt.md)
+Se você fala Português, por favor clique [aqui!](https://github.com/Vitor-Tx/Vitor-Tx/blob/master/README.pt.md)
 
 I'm a Full Stack Developer with a strong focus on the Front End. I have a passion for creating dynamic and interactive web applications, and I love to explore new technologies!
 
